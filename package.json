@@ -1,0 +1,21 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "This is me learning nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavindupe/learning-nodejs.git"
+  },
+  "author": "Kavindu Pe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavindupe/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/kavindupe/learning-nodejs#readme"
+}
